@@ -1755,6 +1755,7 @@ A curated list of awesome AI tools
 
 ### Design Generators
 
+- [free paystub generator](https://stubcreator.com/pay-stub-generator/) - Self-employed individual gets easy and quick pay stubs with our paystub creator.. [Free Trial]
 - [QR Code AI](https://qrcode-ai.com) - Elevate engagement with artistic, insightful QR codes.. [Free Trial]
 - [Adobe Firefly](https://www.adobe.com) - Transform text into vibrant images and designs, boosting creativity effortlessly.. [Paid]
 - [Jasper Art](https://www.jasper.ai) - Transform text into stunning, royalty-free images instantly.. [Paid]
